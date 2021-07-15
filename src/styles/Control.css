@@ -1,0 +1,28 @@
+.skip__btn{
+    background-color: #1B4F72;
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+    border: 0.5px solid black;
+}
+
+.player__controls{
+    display: flex;
+    width: 30vh;
+    justify-content: space-around;
+    padding: 10px;
+  }
+
+  .play__btn{
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+    background-color: #58D68D;
+    border: 0.5px solid black;
+  }

@@ -1,0 +1,27 @@
+.player{
+    background-color: #58D68D;
+    width: 50vh;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5%;
+}
+
+p{
+    color: black;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 800;
+}
+
+audio { 
+    /* box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4); */
+    border-radius: 90px;
+    transform: scale(1.05);
+    margin: 2px 0;
+  }
+
+  h4{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  

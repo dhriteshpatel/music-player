@@ -1,0 +1,14 @@
+.player__details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    height: 30vh;
+    width: 30vh;
+    border-radius: 50%;
+    border: 2px dashed #1B4F72;
+    padding: 10px;
+}
+
